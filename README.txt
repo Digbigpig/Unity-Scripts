@@ -1,1 +1,1 @@
-This is a demonstration of two Unity projects I have been developing during 2018. The most recent project is "Storktation" and has the most comprehensive overview of my abilities and a programer/developer. 
+This is a demonstration of two Unity projects I have been developing during 2018. The most recent project is "Storktation" and has the most comprehensive overview of my abilities as a programer/developer. 
